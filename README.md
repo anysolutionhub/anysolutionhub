@@ -6,9 +6,10 @@
 <p align="center">
   <b>Architecting & Scaling High-Velocity Digital Products for Funded Startups, SMEs & Global Enterprises.</b>
 </p>
-<!-- Interactive Action & Social Badges -->
+<!-- Interactive Action & Social Badges (Including YouTube) -->
 <p align="center">
   <a href="https://anysolutionhub.com"><img src="https://img.shields.io/badge/🌐_Official_Website-anysolutionhub.com-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://youtube.com/@anysolutionhub"><img src="https://img.shields.io/badge/📺_YouTube-Subscribe_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://wa.me/8801871669708"><img src="https://img.shields.io/badge/💬_WhatsApp-+880_1871--669708-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://linkedin.com/company/anysolutionhub"><img src="https://img.shields.io/badge/LinkedIn-Any_Solution_Hub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:info@anysolutionhub.com"><img src="https://img.shields.io/badge/Email-info@anysolutionhub.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -44,7 +45,7 @@
       <td>Live GPS tracking, biometric auth, offline caching & push notification funnels.</td>
     </tr>
     <tr>
-      <td><b>💻 Custom Software & SaaS</b><br/><sub>Tailored enterprise business platforms & rapid SaaS MVPs.</sub></td>
+      <td><b>💻 Custom Enterprise Software</b><br/><sub>Tailored enterprise business platforms & rapid SaaS MVPs.</sub></td>
       <td><code>MERN Stack</code>, <code>NestJS</code>, <code>PostgreSQL</code>, <code>Redis</code>, <code>Docker</code></td>
       <td>Multi-tenant database, automated Stripe billing & role-based access control (RBAC).</td>
     </tr>
@@ -70,6 +71,14 @@
     </tr>
   </tbody>
 </table>
+---
+### 📺 Watch Product Demos & Tech Walkthroughs on YouTube
+<div align="center">
+[![YouTube Channel](https://img.shields.io/badge/▶️_Watch_Our_Live_Demos-YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anysolutionhub)
+<p>
+  Subscribe to <b><a href="https://youtube.com/@anysolutionhub">@anysolutionhub</a></b> on YouTube for product architecture breakdowns, NBR VAT POS live demos, AI automation bot showcases, and modern software engineering tutorials.
+</p>
+</div>
 ---
 ### 🛠️ Production Technology Matrix
 <div align="center">
@@ -110,9 +119,10 @@ Whether you are launching a new startup MVP or modernizing legacy enterprise sys
 | Channel | Contact Point | Response Time |
 | :--- | :--- | :--- |
 | 🌐 **Official Website** | [https://anysolutionhub.com](https://anysolutionhub.com) | Instant |
+| 📺 **YouTube Channel** | [youtube.com/@anysolutionhub](https://youtube.com/@anysolutionhub) | Weekly Tech Demos |
 | 💬 **Direct WhatsApp** | [+880 1871-669708](https://wa.me/8801871669708) | < 15 Minutes |
 | 📧 **Business Email** | [info@anysolutionhub.com](mailto:info@anysolutionhub.com) | < 2 Hours |
-| 💼 **LinkedIn Profile** | [linkedin.com/company/anysolutionhub](https://linkedin.com/company/anysolutionhub) | Daily |
+| 💼 **LinkedIn Profile** | [linkedin.com/company/anysolutionhub](https://linkedin.com/company/anysolutionhub) | Daily Updates |
 | 📍 **Headquarters** | Dhaka, Bangladesh (Delivering Worldwide) | 24/7 Global Delivery |
 <br/>
 <a href="https://anysolutionhub.com/contact">

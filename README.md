@@ -19,6 +19,14 @@
 ### ⚡ Core Engineering & Technology Domains
 
 ---
+┌───────────────────────────────┬────────────────────────────────────────────┐ │ 🌐 Website & Web Applications │ Next.js 15, React 19, TypeScript, Tailwind │ │ 📱 Mobile App Development │ Flutter, React Native, iOS, Android │ │ 💻 Custom Enterprise Software │ MERN Stack, Microservices, Node.js, NestJS │ │ 🧾 POS & Retail Systems │ NBR VAT Compliant, Multi-Counter, Barcode │ │ 🏭 Garments & RMG ERP Suite │ Merchandising, BOM, Inventory, Accounts │ │ 🤖 AI & Automation Studio │ OpenAI, Claude, LangGraph, Vector RAG │ │ 📢 Full-Funnel Growth & SEO │ Technical SEO, High-ROAS Meta & Google PPC │ └───────────────────────────────┴────────────────────────────────────────────┘
+
+
+
+
+
+
+
 
 ### 🛠️ Production Tech Stack & Tooling
 

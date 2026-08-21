@@ -6,9 +6,10 @@
 <p align="center">
   <b>Architecting & Scaling High-Velocity Digital Products for Funded Startups, SMEs & Global Enterprises.</b>
 </p>
-<!-- Interactive Action & Social Badges -->
+<!-- Interactive Action & Social Badges (Including YouTube) -->
 <p align="center">
   <a href="https://anysolutionhub.com"><img src="https://img.shields.io/badge/🌐_Official_Website-anysolutionhub.com-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://youtube.com/@anysolutionhub"><img src="https://img.shields.io/badge/📺_YouTube-Subscribe_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://wa.me/8801871669708"><img src="https://img.shields.io/badge/💬_WhatsApp-+880_1871--669708-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://linkedin.com/company/anysolutionhub"><img src="https://img.shields.io/badge/LinkedIn-Any_Solution_Hub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:info@anysolutionhub.com"><img src="https://img.shields.io/badge/Email-info@anysolutionhub.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -44,7 +45,7 @@
       <td>Live GPS tracking, biometric auth, offline caching & push notification funnels.</td>
     </tr>
     <tr>
-      <td><b>💻 Custom Software & SaaS</b><br/><sub>Tailored enterprise business platforms & rapid SaaS MVPs.</sub></td>
+      <td><b>💻 Custom Enterprise Software</b><br/><sub>Tailored enterprise business platforms & rapid SaaS MVPs.</sub></td>
       <td><code>MERN Stack</code>, <code>NestJS</code>, <code>PostgreSQL</code>, <code>Redis</code>, <code>Docker</code></td>
       <td>Multi-tenant database, automated Stripe billing & role-based access control (RBAC).</td>
     </tr>
@@ -69,6 +70,31 @@
       <td>#1 Google ranking, high ROAS performance ads & omnichannel growth retainers.</td>
     </tr>
   </tbody>
+</table>
+---
+### 📺 Watch Product Demos & Tech Walkthroughs on YouTube
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <a href="https://youtube.com/@anysolutionhub">
+        <img src="https://img.shields.io/badge/YouTube-@anysolutionhub-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%" alt="YouTube Channel" />
+      </a>
+      <br/><br/>
+      <a href="https://youtube.com/@anysolutionhub">
+        <img src="https://img.shields.io/badge/▶_SUBSCRIBE_NOW-red?style=flat-square&logo=youtube&logoColor=white" alt="Subscribe" />
+      </a>
+    </td>
+    <td width="70%">
+      <b>🎬 What We Showcase on Our Channel:</b>
+      <ul>
+        <li>🔹 <b>Full System Demos:</b> Live walkthroughs of NBR VAT-compliant POS & Garments RMG ERP systems.</li>
+        <li>🔹 <b>AI Bots in Action:</b> Real-time WhatsApp Cloud API order bots & RAG vector chatbots.</li>
+        <li>🔹 <b>Architecture Breakdowns:</b> How we build 95+ PageSpeed Next.js & React platforms.</li>
+        <li>🔹 <b>Mobile App Showcase:</b> Cross-platform Flutter iOS & Android feature walkthroughs.</li>
+      </ul>
+      👉 <i>Subscribe to <b><a href="https://youtube.com/@anysolutionhub">@anysolutionhub</a></b> on YouTube for weekly software engineering demos and tutorials!</i>
+    </td>
+  </tr>
 </table>
 ---
 ### 🛠️ Production Technology Matrix
@@ -106,14 +132,48 @@
 ---
 ### 🌐 Let's Build Something High-Impact Together
 Whether you are launching a new startup MVP or modernizing legacy enterprise systems, our senior software engineers are ready to build.
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Channel</th>
+      <th width="45%">Contact Link / Handle</th>
+      <th width="25%">Response Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 <b>Official Website</b></td>
+      <td><a href="https://anysolutionhub.com"><b>https://anysolutionhub.com</b></a></td>
+      <td><code>Instant</code></td>
+    </tr>
+    <tr>
+      <td>📺 <b>YouTube Channel</b></td>
+      <td><a href="https://youtube.com/@anysolutionhub"><b>youtube.com/@anysolutionhub</b></a></td>
+      <td><code>Weekly Tech Demos</code></td>
+    </tr>
+    <tr>
+      <td>💬 <b>Direct WhatsApp</b></td>
+      <td><a href="https://wa.me/8801871669708"><b>+880 1871-669708</b></a></td>
+      <td><code>&lt; 15 Minutes</code></td>
+    </tr>
+    <tr>
+      <td>📧 <b>Business Email</b></td>
+      <td><a href="mailto:info@anysolutionhub.com"><b>info@anysolutionhub.com</b></a></td>
+      <td><code>&lt; 2 Hours</code></td>
+    </tr>
+    <tr>
+      <td>💼 <b>LinkedIn Profile</b></td>
+      <td><a href="https://linkedin.com/company/anysolutionhub"><b>linkedin.com/company/anysolutionhub</b></a></td>
+      <td><code>Daily Updates</code></td>
+    </tr>
+    <tr>
+      <td>📍 <b>Headquarters</b></td>
+      <td><b>Dhaka, Bangladesh</b> (Serving Worldwide)</td>
+      <td><code>24/7 Global Delivery</code></td>
+    </tr>
+  </tbody>
+</table>
 <div align="center">
-| Channel | Contact Point | Response Time |
-| :--- | :--- | :--- |
-| 🌐 **Official Website** | [https://anysolutionhub.com](https://anysolutionhub.com) | Instant |
-| 💬 **Direct WhatsApp** | [+880 1871-669708](https://wa.me/8801871669708) | < 15 Minutes |
-| 📧 **Business Email** | [info@anysolutionhub.com](mailto:info@anysolutionhub.com) | < 2 Hours |
-| 💼 **LinkedIn Profile** | [linkedin.com/company/anysolutionhub](https://linkedin.com/company/anysolutionhub) | Daily |
-| 📍 **Headquarters** | Dhaka, Bangladesh (Delivering Worldwide) | 24/7 Global Delivery |
 <br/>
 <a href="https://anysolutionhub.com/contact">
   <img src="https://img.shields.io/badge/🚀_START_A_PROJECT-CLICK_HERE-f97316?style=for-the-badge&logo=rocket&logoColor=white" height="42" alt="Start a Project" />
